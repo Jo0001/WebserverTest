@@ -1,5 +1,4 @@
 <?php
-require "util.php";
 session_start();
 
 function logIn($email, $password, $location)
