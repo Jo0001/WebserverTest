@@ -16,6 +16,9 @@
     "phpmailer/phpmailer": "~6.1"
   },
   "scripts": {
-    "test": "php test.php"
+    "test": [
+      "php test.php",
+      "php api.php"
+    ]
   }
 }
