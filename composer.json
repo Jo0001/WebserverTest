@@ -1,7 +1,6 @@
 {
-  "name": "Jo0001/webserver-test",
+  "name": "jo0001/webserver-test",
   "description": "This is Test",
-  "version": "1.0",
   "type": "library",
   "homepage": "https://github.com/Jo0001/WebserverTest",
   "time": "2020-02-09",
