@@ -3,7 +3,8 @@ $test = "TEST";
 echo $test;
 
 echo "<br>";
-$break;
+require("badfile.php");
+Test();
 echo "hello world";
 
 /*
