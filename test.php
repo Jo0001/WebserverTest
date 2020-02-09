@@ -3,7 +3,7 @@ $test = "TEST";
 echo $test;
 
 echo "<br>";
-require("badfile.php");
+
 Test();
 echo "hello world";
 
