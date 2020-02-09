@@ -1,6 +1,18 @@
 {
-  "name": "WebserverTest",
-  "description": "WebserverTest requirements",
+  "name": "Jo0001/webserver-test",
+  "description": "This is Test",
+  "version": "1.0",
+  "type": "library",
+  "homepage": "https://github.com/Jo0001/WebserverTest",
+  "time": "2020-02-09",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jo0001",
+      "homepage": "https://github.com/Jo0001/",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "phpmailer/phpmailer": "~6.1"
   }
