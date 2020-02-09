@@ -3,7 +3,7 @@ $test = "TEST";
 echo $test;
 
 echo "<br>";
-
+$break;
 echo "hello world";
 
 /*
